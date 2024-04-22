@@ -1,6 +1,6 @@
-# Reproduction of an issue with generated 'vuetify-icons-configuration' containing the same entry
+# Reproduction of an issue where extending a layer should override the layer config
 
-This issue happens if you configure the icon set within a layer
+
 
 # Setup
 
@@ -10,4 +10,4 @@ pnpm dev
 
 ```
 
-You will notice an error when running the application.
+The button displayed should be black since it was overriden at the application  level. The base layer defines it as red.

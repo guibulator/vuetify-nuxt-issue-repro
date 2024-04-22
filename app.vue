@@ -1,6 +1,5 @@
 <template>
   <div>
-    <v-sheet>Hello from vuetify</v-sheet>
-    <v-btn>Button</v-btn>
+    <v-btn color="primary">Button</v-btn>
   </div>
 </template>

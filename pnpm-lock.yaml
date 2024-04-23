@@ -15,8 +15,8 @@ dependencies:
     specifier: ^4.3.0
     version: registry.npmjs.org/vue-router@4.3.2(vue@3.4.24)
   vuetify-nuxt-module:
-    specifier: ^0.13.2
-    version: registry.npmjs.org/vuetify-nuxt-module@0.13.2(vite@5.2.10)(vue@3.4.24)
+    specifier: ^0.13.3
+    version: registry.npmjs.org/vuetify-nuxt-module@0.13.3(vite@5.2.10)(vue@3.4.24)
 
 packages:
 
@@ -8328,11 +8328,11 @@ packages:
       '@vue/shared': registry.npmjs.org/@vue/shared@3.4.24
     dev: false
 
-  registry.npmjs.org/vuetify-nuxt-module@0.13.2(vite@5.2.10)(vue@3.4.24):
-    resolution: {integrity: sha512-GNV4/f9GZu6DYmqDdCqQ9z/r2qxMPmg7ZjWGponGRaGJVZrd9SilsXR9urxRSRyaVamn35TAyKFF++BmHVqFdQ==, tarball: https://registry.npmjs.org/vuetify-nuxt-module/-/vuetify-nuxt-module-0.13.2.tgz}
-    id: registry.npmjs.org/vuetify-nuxt-module/0.13.2
+  registry.npmjs.org/vuetify-nuxt-module@0.13.3(vite@5.2.10)(vue@3.4.24):
+    resolution: {integrity: sha512-IhBy2AmvyJp2VfHkdpVGLqS5mWFBurzOLfmF+BzE5Y8e+Yhp8fszZXF41xKx7msCcU9tDHkMe7RTrt7ygxy+Aw==, tarball: https://registry.npmjs.org/vuetify-nuxt-module/-/vuetify-nuxt-module-0.13.3.tgz}
+    id: registry.npmjs.org/vuetify-nuxt-module/0.13.3
     name: vuetify-nuxt-module
-    version: 0.13.2
+    version: 0.13.3
     dependencies:
       '@nuxt/kit': registry.npmjs.org/@nuxt/kit@3.11.2
       defu: registry.npmjs.org/defu@6.1.4
